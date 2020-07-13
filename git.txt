@@ -1,4 +1,0 @@
-git add *
-2 git commit -m "%date% %time%: Updated By Edwin Xu"
-3 git push
-4 exit
